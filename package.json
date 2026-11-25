@@ -1,19 +1,20 @@
 {
   "name": "com.archnet.extension.scrollrect",
-  "version": "1.0.0",
-  "displayName": "Arch Net Extension ScrollRect",
-  "description": "Extension to manage ScrollRect component",
-  "unity": "2020.1",
-  "unityRelease": "0b5",
+  "version": "2.0.0",
+  "displayName": "ArchNet - ScrollRect Extension",
+  "description": "Extension methods for scroll views: jump to an edge, lock scrolling, tell a horizontal drag from a vertical one.",
+  "unity": "6000.0",
+  "documentationUrl": "https://archnet-plateform.fr/#ScrollRectExtension",
+  "changelogUrl": "https://github.com/ArchNet-1/ScrollRectExtension/blob/master/CHANGELOG.md",
+  "licensesUrl": "https://github.com/ArchNet-1/ScrollRectExtension/blob/master/LICENSE.md",
   "keywords": [
-    "Arch",
-    "ArchNet",
-    "Extension",
-    "ScrollRect",
-    "Custom"
+    "archnet",
+    "extension",
+    "scrollrect"
   ],
   "author": {
-    "name": "Arch Net",
-    "email": "archnetmodule@gmail.com"
+    "name": "ArchNet",
+    "email": "archnetmodule@gmail.com",
+    "url": "https://archnet-plateform.fr"
   }
 }
