@@ -4,6 +4,7 @@
   "displayName": "ArchNet - ScrollRect Extension",
   "description": "Extension methods for scroll views: jump to an edge, lock scrolling, tell a horizontal drag from a vertical one.",
   "unity": "6000.0",
+  "license": "MIT",
   "documentationUrl": "https://archnet-plateform.fr/#ScrollRectExtension",
   "changelogUrl": "https://github.com/ArchNet-1/ScrollRectExtension/blob/master/CHANGELOG.md",
   "licensesUrl": "https://github.com/ArchNet-1/ScrollRectExtension/blob/master/LICENSE.md",
